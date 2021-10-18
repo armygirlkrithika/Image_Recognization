@@ -1,0 +1,22 @@
+body {
+  
+    background-color: purple;
+   color: cyan;
+}
+
+.bts {
+    width: 50%;
+    font-size: 28px;
+
+}
+
+#camera, #result {
+    border : 2px ridge cyan;
+    width: 400px;
+    height: 350px;
+}
+
+.object_list, #object_name,#object_accuracy {
+    color: white;
+    font-size: 22px;
+}
